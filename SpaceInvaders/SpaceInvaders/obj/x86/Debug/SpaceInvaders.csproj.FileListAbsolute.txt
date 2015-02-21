@@ -1,0 +1,11 @@
+c:\users\гриша\documents\visual studio 2010\Projects\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\spaceinvaders.xnb
+c:\users\гриша\documents\visual studio 2010\Projects\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\SpaceInvaders.exe
+c:\users\гриша\documents\visual studio 2010\Projects\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\SpaceInvaders.pdb
+c:\users\гриша\documents\visual studio 2010\Projects\SpaceInvaders\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+c:\users\гриша\documents\visual studio 2010\Projects\SpaceInvaders\SpaceInvaders\SpaceInvaders\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\гриша\documents\visual studio 2010\Projects\SpaceInvaders\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+c:\users\гриша\documents\visual studio 2010\Projects\SpaceInvaders\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+c:\users\гриша\documents\visual studio 2010\Projects\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\DebugFont.xnb
+C:\Users\Гриша\documents\visual studio 2010\Projects\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\Гриша\documents\visual studio 2010\Projects\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\background.xnb
+C:\Users\Гриша\documents\visual studio 2010\Projects\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\backgroundscore.xnb

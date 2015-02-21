@@ -1,0 +1,5 @@
+Content\spaceinvaders.xnb
+Content\background.xnb
+Content\backgroundscore.xnb
+Content\DebugFont.xnb
+Content\MenuFont.xnb
